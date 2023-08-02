@@ -18,9 +18,9 @@
 
 ## 💡 스터디원
 
-|                 👑 김 건                  |                박권재                 |                  이상언                 |
+|                 👑 김 건                  |                박권재                 |                  ~이상언~                 |
 | :--------------------------------------: | :------------------------------------: | :--------------------------------------: |
-| [@kimgun95](https://github.com/kimgun95) | [@rnjswo9578](https://github.com/rnjswo9578) |[@eoneee](https://github.com/eoneee) |
+| [@kimgun95](https://github.com/kimgun95) | [@rnjswo9578](https://github.com/rnjswo9578) |~[@eoneee](https://github.com/eoneee)~|
 
 ## 팀원들의 Study Log
 - [건](https://github.com/hiki-developer/kimgun95_kafka_project)
@@ -36,10 +36,15 @@
 ---
 ### 2주차
 - 일자 : 2023.07.19
-- 챕터 : ch3.4 카프카 기본 개념 설명(카프카 클라이언트)
+- 챕터 : ch3.4 카프카 클라이언트
 - [스터디 기록](https://github.com/hiki-developer/kafka-app-programming-study/blob/main/study_record/23_07_19.md)
 ---
 ### 3주차
 - 일자 : 2023.07.26
-- 챕터 : ch3.5 카프카 기본 개념 설명(카프카 스트림즈)
+- 챕터 : ch3.5 카프카 스트림즈
 - [스터디 기록](https://github.com/hiki-developer/kafka-app-programming-study/blob/main/study_record/23_07_26.md)
+---
+### 4주차
+- 일자 : 2023.08.02
+- 챕터 : ch3.6 카프카 커넥트
+- [스터디 기록](https://github.com/hiki-developer/kafka-app-programming-study/blob/main/study_record/23_08_02.md)
